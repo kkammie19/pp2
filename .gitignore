@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.vs/
+Practice7/config.py
+practice7/config.py
