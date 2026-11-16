@@ -5,3 +5,15 @@ __pycache__/
 .vs/
 Practice7/config.py
 practice7/config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Database password
+TSIS1/config.py
+
+# Exported contact data
+contacts.json
+TSIS1/contacts.json
