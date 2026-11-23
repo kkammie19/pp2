@@ -1,19 +1,11 @@
-.venv/
-__pycache__/
-*.py[cod]
-.vscode/
-.vs/
-Practice7/config.py
-practice7/config.py
-
-# Python
+# Python cache
 __pycache__/
 *.pyc
-.venv/
 
-# Database password
-TSIS1/config.py
+# Virtual environments
+venv/
+.env
 
-# Exported contact data
-contacts.json
-TSIS1/contacts.json
+# IDE
+.idea/
+.vscode/
